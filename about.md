@@ -12,7 +12,7 @@ permalink: /about/
 
 ### 微信推送
 
-![](/image/weixin.jpg)
+![](/assets/weixin.jpg)
 
 ### 邮件订阅
 

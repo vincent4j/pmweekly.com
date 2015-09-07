@@ -1,8 +1,10 @@
 # Site settings
 title: PM 周刊
 description: "每周一微信和邮件推送产品经理精品文章"
-baseurl: "" # the subpath of your site, e.g. /blog/
-url: "http://pmweekly.com" # the base hostname & protocol for your site
+baseurl: "" 
+url: "http://pmweekly.com" 
 
 # Build settings
 markdown: kramdown
+
+permalink: /issues/:title
