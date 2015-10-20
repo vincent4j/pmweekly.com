@@ -18,4 +18,10 @@ layout: default
 
 ![](/assets/weixin.jpg)
 
+## 贡献内容
+
+1、加 QQ 群：478252850    
+
+2、直接提交文章：<https://github.com/vincent4j/pmweekly.com/issues/new>
+
 
