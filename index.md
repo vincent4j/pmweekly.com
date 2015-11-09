@@ -10,7 +10,7 @@ layout: default
 
 每一篇文章都是我们用心的选择，只有我们自己都觉得好的文章才会推荐给大家。  
 
-## 邮件订阅
+## 邮件订阅（推荐）
 
 <http://tinyletter.com/pmweekly>
 
