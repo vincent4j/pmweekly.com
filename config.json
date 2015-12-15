@@ -1,0 +1,10 @@
+{
+    "name": "PM 周刊",
+    "introduction": "每周周一微信和邮件推送产品经理精品文章",
+    "path": {
+        "content": "/book",
+        "images": "/book/images",
+        "readme": "/book/README.md",
+        "toc": "/book/TOC.md"
+        }
+}
