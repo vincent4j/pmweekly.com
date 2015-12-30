@@ -11,7 +11,7 @@ permalink: /contributors/
 ![@vincent4j](/assets/contributors/4j.png)      
 
 ## #2 Dean   
-介绍：   
+介绍：产品汪，TEDx 策展人     
 主页：<http://www.zhanghaoping.com>   
 
 ![Dean](/assets/contributors/dean.jpg)      
