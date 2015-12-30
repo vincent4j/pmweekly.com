@@ -4,8 +4,6 @@ title: 贡献者
 permalink: /contributors/
 ---
 
-# 贡献者
-
 ## #1 vincent4j     
 介绍：「PM 周刊」发起者，极客学院 PM   
 主页：<http://4jplus.com>   
