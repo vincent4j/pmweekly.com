@@ -14,14 +14,22 @@
 
 ## 微信推送
 
-![](images/weixin.jpg)
+![](images/weixin.jpg)   
+
+## 发布地址
+
+[官网 - pmweekly.com/issues](http://pmweekly.com/issues/)    
+
+[极客学院 Wiki - wiki.jikexueyuan.com/project/pmweekly](http://wiki.jikexueyuan.com/project/pmweekly/)   
+
+[知乎专栏 - zhuanlan.zhihu.com/pmweekly](http://zhuanlan.zhihu.com/pmweekly)     
+
+[简书专题 - www.jianshu.com/collection/16a10f23b62c](http://www.jianshu.com/collection/16a10f23b62c)    
 
 ## 贡献内容
 
 1、加 QQ 群：478252850   
-连续一个月不分享文章将被请出群；   
-群的人数不在于多，重在大家相互分享内容，共同进步；   
-拿来主义者，邮件订阅即可，无需加群。    
+交流、学习、互相进步   
 
 2、直接提交文章：<https://github.com/vincent4j/pmweekly.com/issues/new>
 

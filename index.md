@@ -16,7 +16,17 @@ layout: default
 
 ## 微信推送
 
-![](/assets/weixin.jpg)
+![](/assets/weixin.jpg)   
+
+## 发布地址
+
+[官网 - pmweekly.com/issues](http://pmweekly.com/issues/)    
+
+[极客学院 Wiki - wiki.jikexueyuan.com/project/pmweekly](http://wiki.jikexueyuan.com/project/pmweekly/)   
+
+[知乎专栏 - zhuanlan.zhihu.com/pmweekly](http://zhuanlan.zhihu.com/pmweekly)     
+
+[简书专题 - www.jianshu.com/collection/16a10f23b62c](http://www.jianshu.com/collection/16a10f23b62c)      
 
 ## 贡献内容
 
@@ -24,5 +34,7 @@ layout: default
 交流、学习、互相进步            
 
 2、直接提交文章：<https://github.com/vincent4j/pmweekly.com/issues/new>
+
+
 
 
