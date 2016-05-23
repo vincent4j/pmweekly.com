@@ -6,8 +6,9 @@ baseurl: "" # the subpath of your site, e.g. /blog
 url: "http://pmweekly.com"
 
 # Build settings
-markdown: rdiscount
+markdown: kramdown
 
 permalink: /issues/:title
+
 
 
