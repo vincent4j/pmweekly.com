@@ -1,0 +1,13 @@
+# Site settings
+title: PM 周刊
+email: mail@pmweekly.com
+description: "PM 周刊 - 每周周一微信和邮件推送产品经理精品文章 powered by pmweekly.com"
+baseurl: "" # the subpath of your site, e.g. /blog
+url: "http://pmweekly.com"
+
+# Build settings
+markdown: rdiscount
+
+permalink: /issues/:title
+
+
