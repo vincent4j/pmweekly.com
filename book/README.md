@@ -6,31 +6,26 @@
 
 为了能更好的传播产品经理精品文章，我们特意创建「PM 周刊」，将通过微信和邮件的形式推送给大家，每周周一定时推送。   
 
-每一篇文章都是我们用心的选择，只有我们自己都觉得好的文章才会推荐给大家。  
+每一篇文章都是我们用心的选择，只有我们自己都觉得好的文章才会推荐给大家。 
 
-## 邮件订阅（推荐）
+## 微信推送 (推荐)
 
-<http://tinyletter.com/pmweekly>
+![](/assets/weixin.jpg)   
 
-## 微信推送
+## 邮件订阅
 
-![](images/weixin.jpg)   
+<http://tinyletter.com/pmweekly>   
 
 ## 发布地址
 
 [官网 - pmweekly.com/issues](http://pmweekly.com/issues/)    
 
+[知乎专栏 - zhuanlan.zhihu.com/pmweekly](http://zhuanlan.zhihu.com/pmweekly)    
+
 [极客学院 Wiki - wiki.jikexueyuan.com/project/pmweekly](http://wiki.jikexueyuan.com/project/pmweekly/)   
 
-[知乎专栏 - zhuanlan.zhihu.com/pmweekly](http://zhuanlan.zhihu.com/pmweekly)     
+[简书专题 - www.jianshu.com/collection/16a10f23b62c](http://www.jianshu.com/collection/16a10f23b62c)      
 
-[简书专题 - www.jianshu.com/collection/16a10f23b62c](http://www.jianshu.com/collection/16a10f23b62c)    
+## 加入社群
 
-## 贡献内容
-
-1、加 QQ 群：478252850   
-交流、学习、互相进步   
-
-2、直接提交文章：<https://github.com/vincent4j/pmweekly.com/issues/new>
-
-
+关注微信公众号 > 点击底部的菜单「加入社群」
