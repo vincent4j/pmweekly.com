@@ -10,7 +10,7 @@
 
 ## 微信推送 (推荐)
 
-![](/assets/weixin.jpg)   
+![](images/weixin.jpg)   
 
 ## 邮件订阅
 
