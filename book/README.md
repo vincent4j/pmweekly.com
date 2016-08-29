@@ -10,7 +10,7 @@
 
 ## 微信推送 (推荐)
 
-![](images/weixin.jpg)   
+![PM周刊微信](http://com-4jplus-temp.qiniudn.com/pmweekly-weixin.jpg)   
 
 ## 邮件订阅
 
@@ -22,10 +22,8 @@
 
 [知乎专栏 - zhuanlan.zhihu.com/pmweekly](http://zhuanlan.zhihu.com/pmweekly)    
 
-[极客学院 Wiki - wiki.jikexueyuan.com/project/pmweekly](http://wiki.jikexueyuan.com/project/pmweekly/)   
+[极客学院 Wiki - wiki.jikexueyuan.com/project/pmweekly](http://wiki.jikexueyuan.com/project/pmweekly/)       
 
-[简书专题 - www.jianshu.com/collection/16a10f23b62c](http://www.jianshu.com/collection/16a10f23b62c)      
+## 加入微信群
 
-## 加入社群
-
-关注微信公众号 > 点击底部的菜单「加入社群」
+![PM周刊微信群](http://com-4jplus-temp.qiniudn.com/pmweekly-qun.jpg)   
