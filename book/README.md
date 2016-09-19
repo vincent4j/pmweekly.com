@@ -26,4 +26,4 @@
 
 ## 加入微信群
 
-![PM周刊微信群](http://com-4jplus-temp.qiniudn.com/pmweekly-qun.jpg)   
+请先添加群管理员微信帐号 `vincent4j` 为好友，然后再由管理员邀请入群。  
