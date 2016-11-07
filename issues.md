@@ -14,7 +14,7 @@ permalink: /issues/
 
 {{ site.posts[1].url }}
 
-{{ site.posts[site.posts.length - 2].url }}   
+{{ site.posts.length }}   
 
-{{ site.posts[0] }}
+{{ site.posts[site.posts.length - 2].url }}   
 
