@@ -12,9 +12,4 @@ permalink: /issues/
   {% endfor %}
 </ul>
 
-{{ site.posts[1].url }}
-
-{{ site.posts.length }}   
-
-{{ site.posts[site.posts.length - 2].url }}   
 
