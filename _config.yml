@@ -9,3 +9,5 @@ url: "http://pmweekly.com"
 markdown: kramdown
 
 permalink: /issues/:title
+
+exclude: ["./book"]
