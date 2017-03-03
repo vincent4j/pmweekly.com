@@ -22,10 +22,10 @@ layout: default
 
 [官网 - pmweekly.com/issues](http://pmweekly.com/issues/)    
 
-[知乎专栏 - zhuanlan.zhihu.com/pmweekly](http://zhuanlan.zhihu.com/pmweekly)    
+[知乎专栏 - zhuanlan.zhihu.com/pmweekly](http://zhuanlan.zhihu.com/pmweekly)         
 
-[极客学院 Wiki - wiki.jikexueyuan.com/project/pmweekly](http://wiki.jikexueyuan.com/project/pmweekly/)       
+## 加入社群
 
-## 加入微信群
+[点击查看操作步骤 >>](http://mp.weixin.qq.com/s/l1puxcGkNPN14MqlOqr_qA)
 
-请先添加群管理员微信帐号 `vincent4j` 为好友，然后再由管理员邀请入群。   
+
