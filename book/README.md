@@ -24,4 +24,4 @@
 
 ## 加入社群
 
-[点击查看操作步骤 >>](http://mp.weixin.qq.com/s/l1puxcGkNPN14MqlOqr_qA)  
+[点击查看操作步骤 >>](https://mp.weixin.qq.com/s/w8DK1vV0f3Hpj7u3fCNsiw)  
