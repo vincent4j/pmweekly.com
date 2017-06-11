@@ -1,6 +1,6 @@
 {
     "name": "PM 周刊",
-    "introduction": "每周周一微信和邮件推送产品经理精品文章",
+    "introduction": "PM 周刊 -- 每周周一晚上 9 点推送经人工筛选出的产品精品文章 powered by pmweekly.com",
     "path": {
         "content": "/book",
         "images": "/book/images",
