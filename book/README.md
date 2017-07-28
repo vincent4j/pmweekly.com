@@ -1,4 +1,4 @@
-# PM 周刊
+# 产品经理周刊
 
 ## 初衷
 
@@ -8,7 +8,7 @@
 
 ## 微信推送 (推荐)
 
-![PM周刊微信](http://com-4jplus-temp.qiniudn.com/pmweekly-weixin.jpg)   
+![产品经理周刊微信](http://com-4jplus-temp.qiniudn.com/pmweekly-weixin.jpg)   
 
 ## 邮件订阅
 
